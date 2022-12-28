@@ -1,18 +1,18 @@
 [submodule "figures"]
 	path = figures
 	url = https://github.com/FaidonTsetsis/_gallery
-[submodule "bibliography"]
-	path = bibliography
-	url = https://github.com/FaidonTsetsis/bibliography
 [submodule "quotes"]
 	path = quotes
 	url = https://github.com/FaidonTsetsis/_quotes
-[submodule "images"]
-	path = images
-	url = https://github.com/FaidonTsetsis/images
-[submodule "text"]
-	path = text
-	url = https://github.com/FaidonTsetsis/text
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/FaidonTsetsis/bibliography
 [submodule "extras"]
 	path = extras
 	url = https://github.com/FaidonTsetsis/extras
+[submodule "text"]
+	path = text
+	url = https://github.com/FaidonTsetsis/text
+[submodule "images"]
+	path = images
+	url = https://github.com/FaidonTsetsis/images
